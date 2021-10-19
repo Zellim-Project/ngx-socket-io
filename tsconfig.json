@@ -27,9 +27,6 @@
     "index.ts"
   ],
   "angularCompilerOptions": {
-    "strictMetadataEmit": true,
-    "strictInjectionParameters": true,
-    "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "strictMetadataEmit": true
   }
 }
